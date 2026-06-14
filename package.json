@@ -17,7 +17,7 @@
     "eslint-plugin-react-native": "^5.0.0",
     "eslint-plugin-reactotron": "^0.1.9",
     "husky": "^9.1.7",
-    "lint-staged": "^16.2.1",
+    "lint-staged": "^16.4.0",
     "prettier": "^3.6.2",
     "typesafe-ts": "^1.7.0",
     "typescript": "^6.0.2",
